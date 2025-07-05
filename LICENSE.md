@@ -1,8 +1,8 @@
 # License: View-Only — All Rights Reserved
 
-© [Your Full Name] 2025. All rights reserved.
+© El Mehdi Kadaoui 2025. All rights reserved.
 
-The contents of this repository — including but not limited to white papers, diagrams, models, text, and frameworks — are the intellectual property of the author. These works are protected under international copyright laws.
+The contents of this repository — including but not limited to white papers, articles, diagrams, models, text, and frameworks — are the intellectual property of the author. These works are protected under international copyright laws.
 
 ## You MAY:
 - View and read the materials for personal or organizational learning
@@ -15,4 +15,4 @@ The contents of this repository — including but not limited to white papers, d
 
 Violations of this license may result in legal action.
 
-For permissions, collaborations, or usage requests, contact: [your email address]
+For permissions, collaborations, or usage requests, contact: em.kadaoui@gmail.com
