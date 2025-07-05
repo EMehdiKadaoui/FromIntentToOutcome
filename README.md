@@ -14,7 +14,7 @@ All white papers and materials are authored by El Mehdi Kadaoui and represent a 
 This repository serves as the official source and record of original frameworks and transformation models intended to elevate how organizations approach long-cycle digital and business change.
 
 ## License
-All content is protected under a custom "View-Only — All Rights Reserved" license. Please read `LICENSE.md` for full terms.
+All content is protected under a custom "View-Only - All Rights Reserved" license. Please read `LICENSE.md` for full terms.
 
 ## Contact
 For professional inquiries or permission requests: em.kadaoui@gmail.com
