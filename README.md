@@ -9,6 +9,7 @@ All white papers and materials are authored by El Mehdi Kadaoui and represent a 
 - PDF Articles (timestamped)
 - Conceptual models and structural insights
 - Notable concepts: Structural Integrity, Strategic Drift, Semantic Anchors, Traceable Execution
+- Drift – The Silent Killer of Transformation (PDF)](./Drift_White_Paper_Kadaoui.pdf) :A strategic breakdown of how enterprise transformations lose coherence after launch, why green dashboards don’t mean success, and how leadership can prevent value erosion through structural stewardship
 
 ## Purpose
 This repository serves as the official source and record of original frameworks and transformation models intended to elevate how organizations approach long-cycle digital and business change.
